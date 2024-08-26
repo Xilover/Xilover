@@ -16,21 +16,15 @@ I'm a passionate developer with a deep interest in hardware design, FPGA program
 
 ### 🔧 Technologies & Tools
 
+
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=VHDL&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=Verilog&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-023047?style=for-the-badge&logo=Xilinx&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🌟 Fun Fact
-
-Did you know? The first commercial FPGA was developed by Xilinx in 1985!
-
-### 📊 GitHub Stats
-
-![Xilinx-Warrior's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilinx-warrior&show_icons=true&theme=radical)
-
----
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just chat about tech. 😊
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-0082FC?style=for-the-badge&logo=internet-of-things&logoColor=white)
+![Firmware](https://img.shields.io/badge/Firmware-8A2BE2?style=for-the-badge&logo=firmware&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-F7DF1E?style=for-the-badge&logo=xilinx&logoColor=black)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
