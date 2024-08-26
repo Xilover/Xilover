@@ -17,8 +17,6 @@ I'm a passionate developer with a deep interest in hardware design, FPGA program
 ![FPGA](https://img.shields.io/badge/FPGA-023047?style=for-the-badge&logo=Xilinx&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IoT](https://img.shields.io/badge/IoT-0082FC?style=for-the-badge&logo=internet-of-things&logoColor=white)
 ![Firmware](https://img.shields.io/badge/Firmware-8A2BE2?style=for-the-badge&logo=firmware&logoColor=white)
 ![Xilinx](https://img.shields.io/badge/Xilinx-F7DF1E?style=for-the-badge&logo=xilinx&logoColor=black)
