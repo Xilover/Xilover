@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ryan-morales-a2320a324)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryanmorales7393?style=social)](https://x.com/ryanmorales7393)
 
----
-
 I'm a passionate developer with a deep interest in hardware design, FPGA programming, and embedded systems. My work mainly revolves around creating and optimizing hardware architectures, but I also enjoy contributing to open-source software projects.
 
 - 💻 **Languages:** VHDL, Verilog, C, C++, Python, and more.
