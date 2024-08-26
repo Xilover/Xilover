@@ -1,10 +1,10 @@
 ![Welcome Banner](./back-banner.jpg)
 
-[![GitHub followers](https://img.shields.io/github/followers/xilinx-warrior?label=Follow&style=social)](https://github.com/xilinx-warrior?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ryan-morales-a2320a324)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ryanmorales7393?style=social)](https://x.com/ryanmorales7393)
+I’m a Senior FPGA Engineer with a strong passion for hardware design, FPGA programming, and embedded systems. My work focuses on creating and optimizing advanced hardware architectures, with a special interest in Xilinx technology. I’m also dedicated to finding sustainable solutions for a greener world.
 
-I'm a passionate developer with a deep interest in hardware design, FPGA programming, and embedded systems. My work mainly revolves around creating and optimizing hardware architectures, but I also enjoy contributing to open-source software projects.
+My career started in web development and cloud computing, then moved into kernel development. Eventually, I found my true passion in hardware and firmware engineering, where I now enjoy working with AI and embedded systems. This blend of skills allows me to connect hardware and software effectively, contributing to high-performance projects that require precision and specialized knowledge.
+
+I thrive on challenges and love diving into new technologies, often dedicating myself fully to mastering them. Whether it’s working on cutting-edge systems or contributing to open-source projects, I’m always eager to learn and innovate.
 
 - 💻 **Languages:** VHDL, Verilog, C, C++, Python, and more.
 - 📚 **Currently Learning:** Advanced FPGA architectures and AI hardware accelerators.
