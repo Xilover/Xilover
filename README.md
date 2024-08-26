@@ -1,12 +1,8 @@
 # Hi there, I'm Xilinx-Warrior 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/xilinx-warrior?label=Follow&style=social)](https://github.com/xilinx-warrior?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ryan-morales-a2320a324/)
-# Hi there, I'm Xilinx-Warrior 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/xilinx-warrior?label=Follow&style=social)](https://github.com/xilinx-warrior?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://x.com/ryanmorales7393)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ryan-morales-a2320a324)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ryanmorales7393?style=social)](https://x.com/ryanmorales7393)
 
 ---
 
@@ -24,7 +20,6 @@ I'm a passionate developer with a deep interest in hardware design, FPGA program
 ![Verilog](https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=Verilog&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-023047?style=for-the-badge&logo=Xilinx&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git
 
 ---
 
