@@ -6,16 +6,11 @@
 
 ---
 
-### 🚀 About Me
-
 I'm a passionate developer with a deep interest in hardware design, FPGA programming, and embedded systems. My work mainly revolves around creating and optimizing hardware architectures, but I also enjoy contributing to open-source software projects.
 
 - 💻 **Languages:** VHDL, Verilog, C, C++, Python, and more.
 - 📚 **Currently Learning:** Advanced FPGA architectures and AI hardware accelerators.
 - 💡 **Interests:** Hardware design, low-level programming, hardware-software co-design, and technology trends.
-
-### 🔧 Technologies & Tools
-
 
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=VHDL&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=Verilog&logoColor=white)
