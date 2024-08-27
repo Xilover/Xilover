@@ -1,9 +1,13 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <p style="margin: 0;">
-    I’m a Senior FPGA Engineer with a strong passion for hardware design, FPGA programming, and embedded systems. My work focuses on creating and optimizing advanced hardware architectures, with a special interest in <strong>Xilinx technology</strong>. I’m also dedicated to finding sustainable solutions for a greener world.
-  </p>
-  <img src="./logo.jpg" alt="Logo" width="120" height="60" style="margin-left: 10px;">
-</div>
+<table>
+  <tr>
+    <td>
+      I’m a Senior FPGA Engineer with a strong passion for hardware design, FPGA programming, and embedded systems. My work focuses on creating and optimizing advanced hardware architectures, with a special interest in <strong>Xilinx technology</strong>. I’m also dedicated to finding sustainable solutions for a greener world.
+    </td>
+    <td>
+      <img src="./logo.jpg" alt="Logo" width="120" height="60">
+    </td>
+  </tr>
+</table>
 
 My career started in web development and cloud computing, then moved into kernel development. Eventually, I found my true passion in hardware and firmware engineering, where I now enjoy working with AI and embedded systems. This blend of skills allows me to connect hardware and software effectively, contributing to high-performance projects that require precision and specialized knowledge.
 
