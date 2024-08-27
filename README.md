@@ -1,4 +1,4 @@
-![Welcome Banner](./banner.png)
+![Welcome Banner](./ban.png)
 
 I’m a Senior FPGA Engineer with a strong passion for hardware design, FPGA programming, and embedded systems. My work focuses on creating and optimizing advanced hardware architectures, with a special interest in **Xilinx technology**. I’m also dedicated to finding sustainable solutions for a greener world.
 
