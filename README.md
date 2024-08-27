@@ -1,5 +1,5 @@
 <p style="margin: 0;">
-  <img src="./image.jpg" alt="Logo" width="120" height="60" style="vertical-align: middle; margin-right: 10px;">
+  <img src="./logo.jpg" alt="Logo" width="120" height="60" style="vertical-align: middle; margin-right: 10px;">
   I’m a Senior FPGA Engineer with a strong passion for hardware design, FPGA programming, and embedded systems. My work focuses on creating and optimizing advanced hardware architectures, with a special interest in <strong>Xilinx technology</strong>. I’m also dedicated to finding sustainable solutions for a greener world.
 </p>
 
