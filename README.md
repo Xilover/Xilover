@@ -7,6 +7,7 @@ I thrive on challenges and love diving into new technologies, often dedicating m
 - 💻 **Languages:** VHDL, Verilog, C, C++, Python, and more.
 - 📚 **Currently Learning:** Advanced FPGA architectures and AI hardware accelerators.
 - 💡 **Interests:** Hardware design, low-level programming, hardware-software co-design, and technology trends.
+- 👑 **Industries:** Automotive, Aeroscope, Telecommunication, Computer Vision, Industry Automation and IoT
 
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=VHDL&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=Verilog&logoColor=white)
