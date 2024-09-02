@@ -7,4 +7,4 @@ Senior FPGA Engineer specializing in **Xilinx technology**, with a deep passion 
 - 👑 **Industries:** Automotive, Aeroscope, Telecommunication, Computer Vision, Industry Automation and IoT
 - 🚀 **Expertised in**: ARM, STM32, IoT, SoC, DSP, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
 
-![my life](bb.png)
+![my life](bbb.png)
