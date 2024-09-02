@@ -4,7 +4,7 @@ Senior FPGA Engineer specializing in **Xilinx technology**, with a deep passion 
 - 📚 **Currently Learning:** Advanced FPGA architectures and AI hardware accelerators.
 - 💡 **Interests:** Hardware design, low-level programming, hardware-software co-design, and technology trends.
 - 👑 **Industries:** Automotive, Aeroscope, Telecommunication, Computer Vision, Industry Automation and IoT
-- 🚀 **Expertised in**: ARM, STM32, IoT, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
+- 🚀 **Expertised in**: ARM, STM32, IoT, SoC, DSP, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
 
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=VHDL&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=Verilog&logoColor=white)
