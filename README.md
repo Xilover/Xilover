@@ -1,13 +1,10 @@
-I’m a Senior FPGA Engineer with a strong passion for hardware design, FPGA programming, and embedded systems. My work focuses on creating and optimizing advanced hardware architectures, with a special interest in <strong>Xilinx technology</strong>. I’m also dedicated to finding sustainable solutions for a greener world.
-
-My career started in web development and cloud computing, then moved into kernel development. Eventually, I found my true passion in hardware and firmware engineering, where I now enjoy working with AI and embedded systems. This blend of skills allows me to connect hardware and software effectively, contributing to high-performance projects that require precision and specialized knowledge.
-
-I thrive on challenges and love diving into new technologies, often dedicating myself fully to mastering them. Whether it’s working on cutting-edge systems or contributing to open-source projects, I’m always eager to learn and innovate.
+Senior FPGA Engineer specializing in **Xilinx technology**, with a deep passion for pushing the boundaries of what's possible in 5G, IoT, and wireless communication. My enthusiasm for Xilinx drives my exploration of cutting-edge FPGA solutions, particularly in the realm of IoT, where I strive to innovate and create impactful designs. I bring extensive expertise in ARM and STM32 microcontrollers, ultra-low power, and high-speed FPGA designs. My work includes hardware acceleration for computer vision and seamless software-hardware co-design using tools like HLS, SDSoC, SDAccel, and OpenCL.
 
 - 💻 **Languages:** VHDL, Verilog, C, C++, Python, and more.
 - 📚 **Currently Learning:** Advanced FPGA architectures and AI hardware accelerators.
 - 💡 **Interests:** Hardware design, low-level programming, hardware-software co-design, and technology trends.
 - 👑 **Industries:** Automotive, Aeroscope, Telecommunication, Computer Vision, Industry Automation and IoT
+- 🚀 **Expertised in**: ARM, STM32, IoT, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
 
 ![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logo=VHDL&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF9900?style=for-the-badge&logo=Verilog&logoColor=white)
