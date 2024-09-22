@@ -7,7 +7,6 @@ Senior FPGA Engineer specializing in **Xilinx technology**, with a deep passion 
 - 👑 **Industries:** Automotive, Aeroscope, Telecommunication, Computer Vision, Industry Automation and IoT
 - 🚀 **Expertised in**: ARM, STM32, IoT, SoC, DSP, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
 
-![Xilover's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xilover&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xilover&layout=compact&theme=radical)
   
 
