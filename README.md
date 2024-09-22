@@ -8,7 +8,7 @@ Senior FPGA Engineer specializing in **Xilinx technology**, with a deep passion 
 - 🚀 **Expertised in**: ARM, STM32, IoT, SoC, DSP, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xilover&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xilover&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
 
