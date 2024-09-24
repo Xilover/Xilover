@@ -43,6 +43,4 @@ At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing
    - Custom hardware design  
 
 7. **Cloud and Backend Systems**  
-   - Integration with AWS IoT and Azure IoT  
-
-![my life](bbb.png)
+   - Integration with AWS IoT and Azure IoT
