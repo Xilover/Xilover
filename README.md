@@ -1,5 +1,6 @@
 ![title](bt.png)
 **Ryan Morales**
+
 _Chief Technology Officer, AHSB Co._
 
 As the CTO of AHSB Co., I oversee the strategic and technical direction of our company, focusing on cutting-edge solutions in the fields of **AI**, **IoT**, and **edge computing**. With a strong background in **embedded systems**, **wireless communication**, and **mobile app** development, I am passionate about developing **ultra-efficient**, **scalable**, and **secure** technologies.
