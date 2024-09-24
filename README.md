@@ -1,10 +1,47 @@
 ![title](bt.png)
-Senior FPGA Engineer specializing in **Xilinx technology**, with a deep passion for pushing the boundaries of what's possible in 5G, IoT, and wireless communication. My enthusiasm for Xilinx drives my exploration of cutting-edge FPGA solutions, particularly in the realm of IoT, where I strive to innovate and create impactful designs. I bring extensive expertise in ARM and STM32 microcontrollers, ultra-low power, and high-speed FPGA designs. My work includes hardware acceleration for computer vision and seamless software-hardware co-design using tools like HLS, SDSoC, SDAccel, and OpenCL.
+**Ryan Morales**
+_Chief Technology Officer, AHSB Co._
 
-- 💻 **Languages:** VHDL, Verilog, C, C++, Python, Matlab and more.
-- 📚 **Currently Learning:** Advanced FPGA architectures and AI hardware accelerators.
-- 💡 **Interests:** Hardware design, low-level programming, hardware-software co-design, and technology trends.
-- 👑 **Industries:** Automotive, Aeroscope, Telecommunication, Computer Vision, Industry Automation and IoT
-- 🚀 **Expertised in**: ARM, STM32, IoT, SoC, DSP, PYNQ, Kria, RFSoC, LoRaWAN, Computer Vision.
+As the CTO of AHSB Co., I oversee the strategic and technical direction of our company, focusing on cutting-edge solutions in the fields of **AI**, **IoT**, and **edge computing**. With a strong background in embedded systems, wireless communication, and mobile app development, I am passionate about developing ultra-efficient, scalable, and secure technologies.
+
+My expertise includes working with real-time operating systems (RTOS), FPGA development, and low-power IoT devices, integrating industry-leading platforms such as AWS IoT and Azure IoT. I specialize in designing systems that utilize wireless technologies like Bluetooth 5.0, LoRaWAN, LTE/NB-IoT, Zigbee, UWB, and SDR. Additionally, I am adept at developing mobile solutions using Flutter, React Native, and Android for seamless user experiences.
+
+At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing, leveraging advanced techniques such as digital signal processing (DSP), computer vision, TensorFlow Lite, and edge AI to provide real-time insights and solutions.
+
+1. **Embedded Systems**  
+   - ESP32, STM32, nRF, FPGA  
+   - Bare-metal programming  
+   - RTOS (Real-Time Operating Systems)  
+
+2. **Mobile Development**  
+   - Flutter  
+   - React Native  
+   - Android  
+
+3. **IoT and Wireless Technologies**  
+   - Bluetooth 5.0  
+   - Wi-Fi  
+   - LoRaWAN  
+   - LTE/NB-IoT  
+   - Zigbee  
+   - UWB (Ultra-Wideband)  
+   - SDR (Software-Defined Radio)  
+   - AWS IoT, Azure IoT
+
+4. **User Interface Development**  
+   - LVGL (Light and Versatile Graphics Library)  
+
+5. **Edge Computing**  
+   - Digital signal processing (DSP)  
+   - Computer vision  
+   - TensorFlow Lite  
+   - Edge AI  
+
+6. **FPGA Development**  
+   - High-speed embedded systems  
+   - Custom hardware design  
+
+7. **Cloud and Backend Systems**  
+   - Integration with AWS IoT and Azure IoT  
 
 ![my life](bbb.png)
