@@ -30,7 +30,8 @@ At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing
    - AWS IoT, Azure IoT
 
 4. **User Interface Development**  
-   - LVGL (Light and Versatile Graphics Library)  
+   - LVGL (Light and Versatile Graphics Library)
+   - React, Angular
 
 5. **Edge Computing**  
    - Digital signal processing (DSP)  
@@ -43,4 +44,5 @@ At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing
    - Custom hardware design  
 
 7. **Cloud and Backend Systems**  
-   - Integration with AWS IoT and Azure IoT
+   - Integration with AWS IoT and Azure IoT 
+   - ASP.NET Core, Django, Express 
