@@ -1,13 +1,13 @@
 ![title](bt.png)
 
-Darius Hogan holds a Master’s degree in Electronic Engineering and has 10 years of experience in Embedded Systems, IoT, and Edge Computing, with a focus on developing secure, scalable IoT solutions and high-performance edge computing systems.  I am passionate about cutting-edge technology, a crazy learner, and a problem solver.
+Darius Hogan holds a Master’s degree in Electronic Engineering and has 10 years of experience in Embedded Systems, IoT, and Edge Computing, with a focus on developing secure, scalable IoT solutions and high-performance edge computing systems. I am passionate about cutting-edge technology, a crazy learner, and a problem solver.
 
- ⟡ IoT and Edge Computing
- ⊹ Sensor Integration (Temperature, Humidity, Pressure)
- ⊹ Actuator Control and Signal Processing
- ⊹ Networking Protocols: Wi-Fi 5.0/6.0, LoRaWAN, LTE/NB-IoT, Zigbee
- ⊹ IoT Gateways and Connectivity Solutions
- ⊹ Real-Time Data Processing at the Edge
+⟡ IoT and Edge Computing
+⊹ Sensor Integration (Temperature, Humidity, Pressure)
+⊹ Actuator Control and Signal Processing
+⊹ Networking Protocols: Wi-Fi 5.0/6.0, LoRaWAN, LTE/NB-IoT, Zigbee
+⊹ IoT Gateways and Connectivity Solutions
+⊹ Real-Time Data Processing at the Edge
 
 ⟡ FPGA Development
 ⊹ Platforms: Xilinx ZYNQ/PYNQ, Lattice iCE40/MachXO2/ECP5
