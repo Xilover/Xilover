@@ -1,10 +1,6 @@
 ![title](bt.png)
 
-As the CTO of AHSB Co., I oversee the strategic and technical direction of our company, focusing on cutting-edge solutions in the fields of **AI**, **IoT**, and **edge computing**. With a strong background in **embedded systems**, **wireless communication**, and **mobile app** development, I am passionate about developing **ultra-efficient**, **scalable**, and **secure** technologies.
-
-My expertise includes working with real-time operating systems (**RTOS**), **FPGA** development, and **low-power IoT devices**, integrating industry-leading platforms such as **AWS IoT** and **Azure IoT**. I specialize in designing systems that utilize wireless technologies like **Bluetooth 5.0**, **LoRaWAN**, **LTE/NB-IoT**, **Zigbee**, **UWB**, and **SDR**. Additionally, I am adept at developing mobile solutions using **Flutter**, **React Native**, and **Android** for seamless user experiences.
-
-At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing, leveraging advanced techniques such as **digital signal processing (DSP)**, **computer vision**, **TensorFlow Lite**, and **edge AI** to provide real-time insights and solutions.
+**Darius Hogan** holds a Master’s degree in **Electronic Engineering** and has **10 years of experience** in **Embedded Systems**, **IoT**, and **Edge Computing**, with a focus on developing secure, scalable IoT solutions and high-performance edge computing systems.
 
 **⟡ IoT and Edge Computing**
 ⊹ Sensor Integration (Temperature, Humidity, Pressure)
