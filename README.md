@@ -47,11 +47,11 @@
 ⊹ Hardware Security Modules: TPM, HSM
 ⊹ Secure Communication and Device Authentication
 
-⟡ Antenna Design & RF Communication
+**⟡ Antenna Design & RF Communication**
 ⊹ Antenna Design and Signal Calibration
 ⊹ RF Communication for IoT Devices
 
-⟡ User Interface Development
+**⟡ User Interface Development**
 ⊹ Mobile Apps: Flutter, React Native
 ⊹ Web Interfaces: Angular, React
 ⊹ Embedded GUIs: LVGL for Graphical Interfaces on Embedded Devices
