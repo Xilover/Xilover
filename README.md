@@ -6,41 +6,57 @@ My expertise includes working with real-time operating systems (**RTOS**), **FPG
 
 At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing, leveraging advanced techniques such as **digital signal processing (DSP)**, **computer vision**, **TensorFlow Lite**, and **edge AI** to provide real-time insights and solutions.
 
-1. **Embedded Systems**  
-   - ESP32, STM32, nRF, Arm Cortex
-   - Bare-metal programming (C, C++, Rust)
-   - Real-Time Operating Systems (FreeRTOS, Zephyr)
+**⟡ IoT and Edge Computing**
+⊹ Sensor Integration (Temperature, Humidity, Pressure)
+⊹ Actuator Control and Signal Processing
+⊹ Networking Protocols: Wi-Fi 5.0/6.0, LoRaWAN, LTE/NB-IoT, Zigbee
+⊹ IoT Gateways and Connectivity Solutions
+⊹ Real-Time Data Processing at the Edge
 
-2. **IoT and Wireless Technologies**  
-   - Bluetooth 5.0  
-   - Wi-Fi  
-   - LoRaWAN  
-   - LTE-M/NB-IoT  
-   - Zigbee  
-   - UWB (Ultra-Wideband)  
-   - SDR (Software-Defined Radio)  
-   - AWS IoT, Azure IoT
+**⟡ FPGA Development**
+⊹ Platforms: Xilinx ZYNQ/PYNQ, Lattice iCE40/MachXO2/ECP5
+⊹ VHDL/Verilog Programming
+⊹ High-Performance, Low-Latency System Design
+⊹ Edge AI on FPGA: Signal Processing, TensorFlow Lite Integration
 
-3. **FPGA Development**  
-   - High-speed embedded systems  
-   - Custom hardware design
+**⟡ Microcontroller (MCU) & Microprocessor (MPU)**
+⊹ STM32, ESP32, nRF52/nRF9160
+⊹ Real-Time Operating Systems (RTOS): FreeRTOS, Zephyr
+⊹ Firmware Development for Edge Devices
+⊹ Rust Programming for Embedded Systems
 
-4. **Edge Computing**  
-   - Digital signal processing (DSP)  
-   - Computer vision  
-   - TensorFlow Lite  
-   - Edge AI
+**⟡ Edge AI and Machine Learning**
+⊹ TensorFlow Lite for Edge AI
+⊹ Digital Signal Processing (DSP)
+⊹ Computer Vision at the Edge
+⊹ Real-Time Autonomous Decision Making
 
-5. **User Interface Development**  
-   - LVGL (Light and Versatile Graphics Library)
-   - React, Angular
+**⟡ Power Management**
+⊹ Low Power Optimization Techniques
+⊹ Battery Management and Energy Harvesting
+⊹ Power-Efficient IoT System Design
 
-6. **Mobile Development**  
-   - Flutter  
-   - React Native  
-   - Android  
+**⟡ Cloud Integration**
+⊹ AWS IoT, Azure IoT, Firebase Integration
+⊹ MQTT and HTTP Protocols for Cloud Communication
+⊹ Real-Time Cloud Data Analytics and Processing
 
-7. **Cloud and Backend Systems**  
-   - Integration with AWS IoT and Azure IoT 
-   - ASP.NET Core, Django, Express
+**⟡ Embedded Software Development**
+⊹ Rust, C/C++ Programming for Real-Time Data Acquisition
+⊹ Embedded Systems Debugging and Optimization
+⊹ OTA Firmware Updates and Secure Boot Design
+
+**⟡ Security**
+⊹ Encryption and Secure Boot Processes
+⊹ Hardware Security Modules: TPM, HSM
+⊹ Secure Communication and Device Authentication
+
+⟡ Antenna Design & RF Communication
+⊹ Antenna Design and Signal Calibration
+⊹ RF Communication for IoT Devices
+
+⟡ User Interface Development
+⊹ Mobile Apps: Flutter, React Native
+⊹ Web Interfaces: Angular, React
+⊹ Embedded GUIs: LVGL for Graphical Interfaces on Embedded Devices
  
