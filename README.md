@@ -1,59 +1,51 @@
 ![title](bt.png)
 
-Darius Hogan holds a Master’s degree in Electronic Engineering and has 10 years of experience in Embedded Systems, IoT, and Edge Computing, with a focus on developing secure, scalable IoT solutions and high-performance edge computing systems. I am passionate about cutting-edge technology, a crazy learner, and a problem solver.
+Ryan Morales
 
-IoT and Edge Computing
+_Chief Technology Officer, AHSB Co._
 
-Sensor Integration (Temperature, Humidity, Pressure)
-Actuator Control and Signal Processing
-Networking Protocols: Wi-Fi 5.0/6.0, LoRaWAN, LTE/NB-IoT, Zigbee
-IoT Gateways and Connectivity Solutions
-Real-Time Data Processing at the Edge
-FPGA Development
+As the CTO of AHSB Co., I oversee the strategic and technical direction of our company, focusing on cutting-edge solutions in the fields of AI, IoT, and edge computing. With a strong background in embedded systems, wireless communication, and mobile app development, I am passionate about developing ultra-efficient, scalable, and secure technologies.
 
-Platforms: Xilinx ZYNQ/PYNQ, Lattice iCE40/MachXO2/ECP5
-VHDL/Verilog Programming
-High-Performance, Low-Latency System Design
-Edge AI on FPGA: Signal Processing, TensorFlow Lite Integration
-Microcontroller (MCU) & Microprocessor (MPU)
+My expertise includes working with real-time operating systems (RTOS), FPGA development, and low-power IoT devices, integrating industry-leading platforms such as AWS IoT and Azure IoT. I specialize in designing systems that utilize wireless technologies like Bluetooth 5.0, LoRaWAN, LTE/NB-IoT, Zigbee, UWB, and SDR. Additionally, I am adept at developing mobile solutions using Flutter, React Native, and Android for seamless user experiences.
 
-STM32, ESP32, nRF52/nRF9160
-Real-Time Operating Systems (RTOS): FreeRTOS, Zephyr
-Firmware Development for Edge Devices
-Rust Programming for Embedded Systems
-Edge AI and Machine Learning
+At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing, leveraging advanced techniques such as digital signal processing (DSP), computer vision, TensorFlow Lite, and edge AI to provide real-time insights and solutions.
 
-TensorFlow Lite for Edge AI
-Digital Signal Processing (DSP)
-Computer Vision at the Edge
-Real-Time Autonomous Decision Making
-Power Management
+Embedded Systems
 
-Low Power Optimization Techniques
-Battery Management and Energy Harvesting
-Power-Efficient IoT System Design
-Cloud Integration
+ESP32, STM32, nRF, FPGA
+Bare-metal programming
+RTOS (Real-Time Operating Systems)
+Mobile Development
 
-AWS IoT, Azure IoT, Firebase Integration
-MQTT and HTTP Protocols for Cloud Communication
-Real-Time Cloud Data Analytics and Processing
-Embedded Software Development
+Flutter
+React Native
+Android
+IoT and Wireless Technologies
 
-Rust, C/C++ Programming for Real-Time Data Acquisition
-Embedded Systems Debugging and Optimization
-OTA Firmware Updates and Secure Boot Design
-Security
-
-Encryption and Secure Boot Processes
-Hardware Security Modules: TPM, HSM
-Secure Communication and Device Authentication
-Antenna Design & RF Communication
-
-Antenna Design and Signal Calibration
-RF Communication for IoT Devices
+Bluetooth 5.0
+Wi-Fi
+LoRaWAN
+LTE/NB-IoT
+Zigbee
+UWB (Ultra-Wideband)
+SDR (Software-Defined Radio)
+AWS IoT, Azure IoT
 User Interface Development
 
-Mobile Apps: Flutter, React Native
-Web Interfaces: Angular, React
-Embedded GUIs: LVGL for Graphical Interfaces on Embedded Devices
+LVGL (Light and Versatile Graphics Library)
+React, Angular
+Edge Computing
+
+Digital signal processing (DSP)
+Computer vision
+TensorFlow Lite
+Edge AI
+FPGA Development
+
+High-speed embedded systems
+Custom hardware design
+Cloud and Backend Systems
+
+Integration with AWS IoT and Azure IoT
+ASP.NET Core, Django, Express
  
