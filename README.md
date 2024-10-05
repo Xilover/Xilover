@@ -10,42 +10,51 @@ My expertise includes working with real-time operating systems (RTOS), FPGA deve
 
 At AHSB Co., I lead a dedicated team in pushing the boundaries of edge computing, leveraging advanced techniques such as digital signal processing (DSP), computer vision, TensorFlow Lite, and edge AI to provide real-time insights and solutions.
 
-Embedded Systems
+Here's a categorized list suitable for a GitHub README:
 
-ESP32, STM32, nRF, FPGA
-Bare-metal programming
-RTOS (Real-Time Operating Systems)
-Mobile Development
+## Embedded Systems
+- ESP32
+- STM32
+- nRF
+- FPGA
+- Bare-metal programming
+- RTOS (Real-Time Operating Systems)
 
-Flutter
-React Native
-Android
-IoT and Wireless Technologies
+## Mobile Development
+- Flutter
+- React Native
+- Android
 
-Bluetooth 5.0
-Wi-Fi
-LoRaWAN
-LTE/NB-IoT
-Zigbee
-UWB (Ultra-Wideband)
-SDR (Software-Defined Radio)
-AWS IoT, Azure IoT
-User Interface Development
+## IoT and Wireless Technologies
+- Bluetooth 5.0
+- Wi-Fi
+- LoRaWAN
+- LTE/NB-IoT
+- Zigbee
+- UWB (Ultra-Wideband)
+- SDR (Software-Defined Radio)
+- AWS IoT
+- Azure IoT
 
-LVGL (Light and Versatile Graphics Library)
-React, Angular
-Edge Computing
+## User Interface Development
+- LVGL (Light and Versatile Graphics Library)
+- React
+- Angular
 
-Digital signal processing (DSP)
-Computer vision
-TensorFlow Lite
-Edge AI
-FPGA Development
+## Edge Computing
+- Digital Signal Processing (DSP)
+- Computer Vision
+- TensorFlow Lite
+- Edge AI
 
-High-speed embedded systems
-Custom hardware design
-Cloud and Backend Systems
+## FPGA Development
+- High-speed embedded systems
+- Custom hardware design
 
-Integration with AWS IoT and Azure IoT
-ASP.NET Core, Django, Express
+## Cloud and Backend Systems
+- Integration with AWS IoT
+- Integration with Azure IoT
+- ASP.NET Core
+- Django
+- Express
  
